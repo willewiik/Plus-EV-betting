@@ -5,3 +5,6 @@ When predetermined criteria are met (minimum EV, maximum odds, minimum limit, et
 Right now it takes about 0.6 seconds to compare a single match.
 
 ![R Console](./Screenshot_R_console.png)
+
+![Telegram Message](./Screenshot_telegram.png)
+
